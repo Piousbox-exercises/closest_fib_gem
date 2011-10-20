@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "closest_fib_gem"
   gem.homepage = "http://github.com/piousbox/closest_fib_gem"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{closest fibbonaci number}
+  gem.description = %Q{compute closest fibbonaci number to a given integer}
   gem.email = "piousbox@gmail.com"
   gem.authors = ["Victor Pudeyev"]
   # dependencies defined in Gemfile
